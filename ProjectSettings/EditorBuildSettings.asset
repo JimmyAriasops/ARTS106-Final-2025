@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project 1 - GrayBoxing - Jimmy Arias.unity
+    guid: 4075f937bb5fcfc4fbbb820dc02d6805
+  - enabled: 1
+    path: Assets/StartMenu.unity
+    guid: a561dc57ed9f1914286e3794178aec3d
   m_configObjects: {}
